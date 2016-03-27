@@ -1,0 +1,23 @@
+{
+    "name": "nprint",
+    "version": "0.1.0",
+    "description": "fingerprint html elements",
+    "main": "index.js",
+    "devDependencies": {
+        "eslint": "^2.4.0",
+        "eslint-config-airbnb": "^6.1.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alizain/nprint.git"
+    },
+    "author": "Alizain Feerasta",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/alizain/nprint/issues"
+    },
+    "homepage": "https://github.com/alizain/nprint#readme"
+}

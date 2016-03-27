@@ -1,0 +1,22 @@
+{
+  "name": "nprint",
+  "description": "fingerprint html elements",
+  "main": "index.js",
+  "authors": [
+    "Alizain Feerasta"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/alizain/nprint",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
